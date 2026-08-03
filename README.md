@@ -19,6 +19,8 @@ Unzip the file into your foundry installation module folder (Main foundry file/d
 
 Within the module you will find: Items such as a base for attacks and status move (and all the Types, present in each move in the form of a table to calculate type weaknesses), an example actor, and all the statuses present in Tranquility
 
+I recommend copying the example actor (Zeraora) and making new characters from it (active effects are weird to add to a brand new actor for some reason)
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e7a111e-5295-4bf4-8a42-72fb1a0fc32c" />
 
 
