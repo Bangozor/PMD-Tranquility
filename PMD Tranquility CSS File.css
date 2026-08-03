@@ -1,0 +1,47 @@
+table th, table td {
+    padding: 0.3rem 0.5rem;
+}
+.dice-tooltip.custom-roll-tooltip {
+    background-image: url(Other%20Images/astero-20190926a.jpg);
+}
+body.crlngn-ui {
+    --card-color-bg: var(--control-bg-color);
+    --input-height: 1.7rem;
+    --color-select-option-bg: var(--background);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0rem 0 0rem;
+    line-height: 1;
+}
+
+.actor-v2, .item-v2, .custom-system-customStatusEffects, .custom-system-componentSettings, .custom-dialog {
+    .custom-system-label-title {
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+    }
+}
+
+.actor-v2, .item-v2, .custom-system-customStatusEffects, .custom-system-componentSettings, .custom-dialog {
+    table {
+        margin: 0em 0;
+    }
+}
+
+p {
+    margin: 0rem 0;
+}
+
+.dice-tooltip .dice-rolls {
+    overflow: visible;
+}
+prose-mirror .editor-container {
+    min-height: 200px;
+}
+table {
+    margin: 1rem 0;
+    border-spacing: 0;
+    overflow: hidden;
+    width: 100%;
+    border-collapse: collapse;
+}
