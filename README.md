@@ -8,9 +8,13 @@ Importing the templates:
 <img width="301" height="1005" alt="image" src="https://github.com/user-attachments/assets/98ae4573-0721-42cb-864b-d36ccb6e90a7" />
 
 
+CSB Setup:
+CSB only allows the import of templates, which means that you will have to manually change the initiative formula in the game settings like the picture bellow
+<img width="779" height="679" alt="image" src="https://github.com/user-attachments/assets/9af273c3-ae07-4fd4-9cf6-df469350de50" />
+
+
 For the CSS file:
 Copy the contents of the file into Carolingian UI's settings (Interface settings -> Theme & Styles -> Custom CSS text box)
-
 <img width="1597" height="886" alt="image" src="https://github.com/user-attachments/assets/b96c32ed-230d-4175-b1e9-833fcb7dbf15" />
 
 
@@ -20,7 +24,6 @@ Unzip the file into your foundry installation module folder (Main foundry file/d
 Within the module you will find: Items such as a base for attacks and status move (and all the Types, present in each move in the form of a table to calculate type weaknesses), an example actor, and all the statuses present in Tranquility
 
 I recommend copying the example actor (Zeraora) and making new characters from it (active effects are weird to add to a brand new actor for some reason)
-
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e7a111e-5295-4bf4-8a42-72fb1a0fc32c" />
 
 
