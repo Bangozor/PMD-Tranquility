@@ -1,7 +1,7 @@
 This Github contains the Port of PMD:Tranquility for Foundry VTT and a Foundry Module for a few necesary assets.
 
 Importing the templates:
-- Instal Custom system builder on your Foundry (https://foundryvtt.com/packages/custom-system-builder)
+- Install Custom system builder (CSB) on your Foundry (https://foundryvtt.com/packages/custom-system-builder)
 - Create a World
 - Once in the world, in foundry's game setting, locate the "import templates JSON" and upload the JSON file
 
