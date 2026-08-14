@@ -29,7 +29,7 @@ Within the module you will find: Items such as a base for attacks and status mov
 <img width="561" height="540" alt="image" src="https://github.com/user-attachments/assets/3dfda981-39c4-4b85-ae95-ec81ac730384" />
 
 Regarding The Type Table in moves:
-After some testing, I found out that the type table section of moves becomes empty when exported to/from the module, or when moving from a character to the Item section of the foundry UI, but NOT when moving from the item section to a character. Due to this, you will have to manually fill one PC move's and one NPC move's type table manually, then drag that filled out move to a character, which will copy it, and modify it in the character sheet. This is quite convoluted but doesn't seem to have a way to be fix on my side since this looks like a foundry issue (I'll keep looking for a way around this).
+After some testing, I found out that the type table section of moves becomes empty when exported to/from the module, or when moving from a character to the Item section of the foundry UI, but NOT when moving from the item section to a character. Due to this, you will have to manually fill one PC move's and one NPC move's type table manually, then drag that filled out move to a character, which will copy it, and modify it in the character sheet, there is no need to do this for status moves as they do not use the type table. This is quite convoluted but doesn't seem to have a way to be fix on my side since this looks like a foundry issue (I'll keep looking for a way around this).
 
 Quasi necesary external module:
 - [Carolingian UI](https://github.com/crlngn/crlngn-ui) (Port was made with this this module in mind, the character sheet will look off without it. Additional CSS needs to be added through it)
