@@ -22,9 +22,14 @@ For the Module (PMD-tranquility-assets):
 Unzip the file into your foundry installation module folder (Main foundry file/data/modules)
 
 Within the module you will find: Items such as a base for attacks and status move (and all the Types, present in each move in the form of a table to calculate type weaknesses), an example actor, and all the statuses present in Tranquility
-
-I recommend copying the example actor (Zeraora) and making new characters from it (active effects are weird to add to a brand new actor for some reason)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e7a111e-5295-4bf4-8a42-72fb1a0fc32c" />
+
+**To add status effect to a character, you need to drag and drop each status effect from the compendium directly on that actor's token, not on the character sheet. Make sure that "Link actor Data" is turned on in "prototype token" before doing anything to a character, without this setting, changes made to a token will not be transferred to the main character sheet found in the "actor" section of the foundry UI, and once the token is deleted, all changes will be lost**
+<img width="1069" height="979" alt="image" src="https://github.com/user-attachments/assets/c785a051-fd3f-41a1-ba21-c5a64f461433" />
+<img width="561" height="540" alt="image" src="https://github.com/user-attachments/assets/3dfda981-39c4-4b85-ae95-ec81ac730384" />
+
+
+
 
 
 Quasi necesary external module:
