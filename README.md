@@ -13,9 +13,12 @@ CSB only allows the import of templates, which means that you will have to manua
 <img width="779" height="679" alt="image" src="https://github.com/user-attachments/assets/9af273c3-ae07-4fd4-9cf6-df469350de50" />
 
 
-For the CSS file:
-Copy the contents of the file into Carolingian UI's settings (Interface settings -> Theme & Styles -> Custom CSS text box)
+For the CSS file:  
+**Carolingian UI V4.0.2 and Less:** Copy the contents of the file into Carolingian UI's settings (Interface settings -> Theme & Styles -> Custom CSS text box)
 <img width="1597" height="886" alt="image" src="https://github.com/user-attachments/assets/b96c32ed-230d-4175-b1e9-833fcb7dbf15" />
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+**Carolingian UI V4.1.0 and Above:** Carolingian updated and the path is different, here is the new path:
+<img width="1597" height="679" alt="image" src="https://github.com/user-attachments/assets/63204cb9-193e-437a-9e88-b74788a2d075" />
 
 
 For the Module (PMD-tranquility-assets):
